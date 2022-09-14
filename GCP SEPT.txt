@@ -1,0 +1,123 @@
+1-SEPT-22  No class only practice
+
+
+02-SEPT-22  Satish Sir
+morning session-- Bucket creation,Python intoduction
+aftrnun session-- Python intoducton, why python? who it it works?
+
+03-SEPT-22---SATURDAY
+
+04-SEPT-22    ---------SUNDAY------------------
+
+05-SEPT-22
+morning session-- 
+aftrnun session--
+
+06-SEPT-22
+morning session-- Swamy sir ,,, Windowing commands rank(),dense_rank(), Loop(),Lad(),about some realtime experiences
+aftrnun session---karishma python row,tuple,range small examples,    Narayana sir introdusced himself
+
+07-SEPT-22
+morning session-- Swamy sir IAM roles (Important clsss listern again  IQ) (satish sir sql,sdk,...ect status)
+aftrnun session-- satish sir Python,slicing,casting,
+
+08-SEPT-22
+morning session-- Satish sir, split(), finding date real time work
+aftrnun session--Jira, agile methodology,for real time work, what is your work 
+                  when you join in a company(very important when you join in a company)(hear again)
+
+09-SEPT-22----Friday also No classs
+
+
+10-SEPT-22--SATURDAY
+
+11-SEPT-22                ---------------SUNDAY------------------
+
+12-SEPT-22
+morning session-- continution to 8-B class---
+                 -change order(cr) by using JIRA, confluence--42 min --Next Git hub
+                   
+                   https://github.com/katkeit/SQL-examples    this link used to tell examples of git commands
+
+aftrnun session--Narayana sir class NO AUDIO
+
+13-SEPT-22
+morning session-- Narayana sir 1st 1hour 15min,,,,,
+
+                  Swamy sir GIT https://github.com/atlassian  to create free account    
+                  created GUI interface, uploded file and acced in git CLI ,,, and lot (hear again after getting job) see scrren shots
+
+aftrnun session---  Swamy sir GIT-- discussed top 20 git commands by using  the below url
+                                  
+                                     https://dzone.com/articles/top-20-git-commands-with-examples
+
+14-SEPT-22
+morning session-- 
+aftrnun session
+
+15-SEPT-22
+morning session-- 
+aftrnun session
+
+16-SEPT-22
+morning session-- 
+aftrnun session
+
+17-SEPT-22
+morning session-- 
+aftrnun session
+
+18-SEPT-22 ---------SUNDAY--------------------
+
+
+19-SEPT-22
+morning session-- 
+aftrnun session
+
+20-SEPT-22
+morning session-- 
+aftrnun session
+
+21-SEPT-22
+morning session-- 
+aftrnun session
+
+22-SEPT-22
+morning session-- 
+aftrnun session
+
+23-SEPT-22
+morning session-- 
+aftrnun session
+
+24-SEPT-22
+morning session-- 
+aftrnun session
+
+25-SEPT-22-----------SUNDAY--------------
+
+26-SEPT-22
+morning session-- 
+aftrnun session
+
+27-SEPT-22
+morning session-- 
+aftrnun session
+
+28-SEPT-22
+morning session-- 
+aftrnun session
+
+29-SEPT-22
+morning session-- 
+aftrnun session
+
+30-SEPT-22
+morning session-- 
+aftrnun session--
+
+
+
+
+
+
