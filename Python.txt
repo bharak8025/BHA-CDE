@@ -1,0 +1,54 @@
+st  = 'lenovo'
+print(st[::-1])
+print(st[-1])
+
+for i in range(1,11):
+    print(i, end='\t')   #by default end ='\n'
+
+for i in range(5):
+    print('harish', end=' ')
+
+#squares of first 10 natural numbers
+for i in range(1, 11):
+    print(i*i, end=' ')
+
+row =''
+for i in range(5):
+    row = row+ '*'
+    print(row, end='\n')
+
+
+row ='*****'
+for i in range(5):
+    print(row)
+
+st ='*****'
+for i in range(5):        # i =0
+    print(st)    #stmt 1  
+    st = st[:5-i-1:] #stmt 2  
+
+a = 'lenovo'
+print(len(a))
+print(a[0:6:1])   #lenovo
+print(a[0:6:-1])  # nothing
+print(a[::-1])    # reverse of the string
+
+
+row =''
+sp=' '*4
+for i in range(5):
+    row = sp[:4-i:]+'*'*(i+1)
+    print(row)
+    row = ''
+
+row =''
+sp=' '*4
+for i in range(5):
+    row = sp[:4-i:]+'* '*(i+1)
+    print(row)
+    row = ''  #reset row string
+
+st = 'dell'
+print(st*3)
+
+print(range(5))
